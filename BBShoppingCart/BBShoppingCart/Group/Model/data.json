@@ -1,0 +1,157 @@
+{
+    "cart_list": [
+                  {"store_id": 1,
+                  "store_name": "店铺01",
+                  "goods": [
+                            {
+                            "store_id": 1,
+                            "store_name": "店铺01",
+                            "goods_id": 1,
+                            "goods_name": "商品01",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%9B%BE%E7%89%87%20%20%E8%90%8C%E5%AE%A0&step_word=&hs=0&pn=2&spn=0&di=55888416650&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3534737096%2C3565943882&os=2302086736%2C4146397741&simid=3332214918%2C110349213&adpicid=0&lpn=0&ln=1971&fr=&fmq=1487732433225_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg01.taopic.com%2F160117%2F318752-16011F9334648.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bpw5rtv_z%26e3Bv54AzdH3Fp7h7AzdH3Fda8ma8AzdH3F0bmlc8_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0"
+                            },{
+                            "store_id": 1,
+                            "store_name": "店铺01",
+                            "goods_id": 1,
+                            "goods_name": "商品02",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            
+                            },{
+                            "store_id": 1,
+                            "store_name": "店铺01",
+                            "goods_id": 1,
+                            "goods_name": "商品01",
+                            "goods_num": 1,
+                            "state": false,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            
+                            }
+                            ]
+                  },{
+                  "store_id": 2,
+                  "store_name": "店铺02",
+                  "goods": [
+                            {
+                            "store_id": 2,
+                            "store_name": "店铺02",
+                            "goods_id": 1,
+                            "goods_name": "商品01",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            },{
+                            "store_id": 2,
+                            "store_name": "店铺02",
+                            "goods_id": 1,
+                            "goods_name": "商品02",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            
+                            },{
+                            "store_id": 2,
+                            "store_name": "店铺02",
+                            "goods_id": 1,
+                            "goods_name": "商品01",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            
+                            }
+                            ]
+                  
+                  },{
+                  "store_id": 3,
+                  "store_name": "店铺03",
+                  "goods": [
+                            {
+                            "store_id": 3,
+                            "store_name": "店铺03",
+                            "goods_id": 1,
+                            "goods_name": "商品01",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            },{
+                            "store_id": 3,
+                            "store_name": "店铺03",
+                            "goods_id": 1,
+                            "goods_name": "商品02",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            
+                            },{
+                            "store_id": 3,
+                            "store_name": "店铺03",
+                            "goods_id": 1,
+                            "goods_name": "商品01",
+                            "goods_num": 1,
+                            "state": true,
+                            "storage_state": true,
+                            "minnum": "1",
+                            "goods_price": "170",
+                            "goods_storage": 39,
+                            "goods_weight": "20.00",
+                            "goods_netweight": "20.00",
+                            "goods_image_url": "http://192.168.31.152/shop/common/pic_none.jpg"
+                            
+                            }
+                            ]
+                  
+                  }
+                  ]
+    
+}
